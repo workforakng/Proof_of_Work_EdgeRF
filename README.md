@@ -1,7 +1,7 @@
 # EdgeRF: Sub-Megabyte Drone Remote Controller Identification & DroneRF Re-Evaluation
 ## Official Review Artifact & Reproducible Proof of Work (PoW)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/workforakng/Proof_of_Work_EdgeRF/blob/main/Proof_of_Work_EdgeRF.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/workforakng/c12dd851dde546e38b662cca22217501/Proof_of_Work_EdgeRF.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![IEEE Target](https://img.shields.io/badge/IEEE-RadarConf%202027-red.svg)](https://radarconf2027.org)
 
@@ -15,7 +15,7 @@ This standalone repository serves as an **interactive, independent Proof of Work
 
 To guarantee complete review transparency without requiring reviewers to download 12+ GB of raw radio-frequency captures or install heavy local dependencies, the accompanying notebook runs end-to-end in **Google Colab** in under 2 minutes:
 
-👉 **[Open `Proof_of_Work_EdgeRF.ipynb` in Google Colab](https://colab.research.google.com/github/workforakng/Proof_of_Work_EdgeRF/blob/main/Proof_of_Work_EdgeRF.ipynb)**
+👉 **[Open `Proof_of_Work_EdgeRF.ipynb` in Google Colab](https://colab.research.google.com/gist/workforakng/c12dd851dde546e38b662cca22217501/Proof_of_Work_EdgeRF.ipynb)**
 
 ---
 
