@@ -1,0 +1,159 @@
+{
+  "classes_17": [
+    {
+      "id": 0,
+      "brand": "DJI",
+      "model": "Inspire 1 Pro",
+      "unit": 1,
+      "modulation": "Lightbridge (OFDM/FHSS)",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 1,
+      "brand": "DJI",
+      "model": "Matrice 100",
+      "unit": 1,
+      "modulation": "Lightbridge (FHSS)",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 2,
+      "brand": "DJI",
+      "model": "Matrice 600",
+      "unit": 1,
+      "modulation": "Industrial Lightbridge",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 3,
+      "brand": "DJI",
+      "model": "Matrice 600",
+      "unit": 2,
+      "modulation": "Industrial Lightbridge",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 4,
+      "brand": "DJI",
+      "model": "Phantom 3",
+      "unit": 1,
+      "modulation": "Lightbridge",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 5,
+      "brand": "DJI",
+      "model": "Phantom 4 Pro",
+      "unit": 1,
+      "modulation": "Lightbridge/OcuSync",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 6,
+      "brand": "DJI",
+      "model": "Phantom 4 Pro",
+      "unit": 2,
+      "modulation": "Lightbridge/OcuSync",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 7,
+      "brand": "FlySky",
+      "model": "FS-T6",
+      "unit": 1,
+      "modulation": "AFHDS",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 8,
+      "brand": "Futaba",
+      "model": "T8FG",
+      "unit": 1,
+      "modulation": "FASST",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 9,
+      "brand": "Graupner",
+      "model": "MC32",
+      "unit": 1,
+      "modulation": "HoTT",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 10,
+      "brand": "HobbyKing",
+      "model": "HK-T6A",
+      "unit": 1,
+      "modulation": "FHSS",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 11,
+      "brand": "Jeti Duplex",
+      "model": "DC-16",
+      "unit": 1,
+      "modulation": "Duplex 2.4EX",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 12,
+      "brand": "Spektrum",
+      "model": "DX5e",
+      "unit": 1,
+      "modulation": "DSMX",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 13,
+      "brand": "Spektrum",
+      "model": "DX6e",
+      "unit": 1,
+      "modulation": "DSMX",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 14,
+      "brand": "Spektrum",
+      "model": "DX6i",
+      "unit": 1,
+      "modulation": "DSMX",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 15,
+      "brand": "Spektrum",
+      "model": "JR X9303",
+      "unit": 1,
+      "modulation": "DSM2",
+      "band": "2.4 GHz"
+    },
+    {
+      "id": 16,
+      "brand": "Turnigy",
+      "model": "9X",
+      "unit": 1,
+      "modulation": "AFHDS 2A",
+      "band": "2.4 GHz"
+    }
+  ],
+  "ieee_dataport_doi": "10.21227/ss99-8d56",
+  "ieee_researchgate_ref": "https://www.researchgate.net/publication/349251847_Drone_Remote_Controller_RF_Signal_Dataset",
+  "sampling_rate_raw": "20 GSa/s",
+  "oscilloscope_model": "Keysight Infiniium DSO-S 404A",
+  "total_captures": 17548,
+  "test_partition_17_size": 2633,
+  "test_partition_15_size": 2331,
+  "ieee_dataport_url": "https://ieee-dataport.org/open-access/drone-remote-controller-rf-signal-dataset",
+  "dataset_title": "Drone Remote Controller RF Signal Dataset",
+  "authors": [
+    "Martins Ezuma (North Carolina State University)",
+    "Fatih Erden (North Carolina State University)",
+    "Chethan K. Anjinappa (North Carolina State University)",
+    "Ozgur Ozdemir (North Carolina State University)",
+    "Ismail Guvenc (North Carolina State University)"
+  ],
+  "funding_acknowledgment": "Supported in part by NASA under Grant NNX17AJ94A and NSF under CNS-1939334 (AERPAW / PAWR).",
+  "archive_filename": "MPACT_DroneRC_RF_Dataset.zip",
+  "archive_size_raw": "124.13 GB"
+}
